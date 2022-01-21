@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ...?
-- 📫 you can reach me in discord,  https://discord.gg/nQg7xsbk97
+- 📫 you can reach me in Twitter,  https://twitter.com/ales_kun
 
 <!---
 aleskuro/aleskuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
